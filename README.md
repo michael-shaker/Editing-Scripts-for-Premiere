@@ -1,1 +1,3 @@
 # Editing-Scripts-for-Premiere
+
+; Comment out or in whatever features / code you need based on your individual use cases! Also, if you like having your Premiere Pro colors different than the darkest default (kinda odd, but you do you) then you can change the timeline color values by checking your Windows Spy, which should give you the correct colors necessary. Might be a bit tedious, but that's what you get for being different. JK haha! (Incredibly funny, I know)
